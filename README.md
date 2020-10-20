@@ -1,4 +1,4 @@
-# latihan VCS
+﻿# latihan VCS
 
 Nama : Marlina Horo
 Nim :312010250
@@ -72,11 +72,11 @@ jika tidak ada masalah maka akan seperti gambar di atas.
 
 15. Lalu buka lah **terminal** Cara menghubungkan nya dengan mengetik git remote add origin <link> 
 
-![13](/gambar/13.png)
+![10](/gambar/10.png)
 
 15. Langkah selanjutnya ketik `git push -u origin master` lalu masukan username GITHUB dan password 
 
-![14](gambar/14.png)
+![11](gambar/11.png)
 
 16. Bila tidak ada kesalahan akan seperti gambar di bawah ini
 
