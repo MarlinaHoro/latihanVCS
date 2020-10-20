@@ -1,7 +1,9 @@
 ﻿# latihan VCS
 
 Nama : Marlina Horo
+
 Nim :312010250
+
 kelas : TI.20 A2
 
 1. Langkah pertama membuat folder **latihanVCS** , saya membuat folder nya di desktop
@@ -81,7 +83,7 @@ jika tidak ada masalah maka akan seperti gambar di atas.
 16. Bila tidak ada kesalahan akan seperti gambar di bawah ini
 
 
-# pengertia 
+# pengertian 
 
 - `mkdir <nama file>` untuk membuat file baru
 
