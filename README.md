@@ -56,11 +56,9 @@ jika tidak ada masalah maka akan seperti gambar di atas.
 
 12. Jika sudah memiliki akun buat lah repository baru **New Repository**
 
-![10](/gambar/10.png)
 
 13. Langkah selanjutnya mengisi repository nya
 
-![11](/gambar/11.png)
 
 - **isi repository nya dengan nama “latihanVCS” ,untuk penamaan bisa di rubah sesui keperluan.**
 
@@ -70,11 +68,7 @@ jika tidak ada masalah maka akan seperti gambar di atas.
 
 - **lalu create repository**
 
-14. Maka akan muncul seperti gambar berikut
-
-![12](/gambar/12.png)
-
-copy link tersebut untuk menghubungkan dengan akun git yang ada di pc/ laptot.
+14. copy link tersebut untuk menghubungkan dengan akun git yang ada di pc/ laptot.
 
 15. Lalu buka lah **terminal** Cara menghubungkan nya dengan mengetik git remote add origin <link> 
 
@@ -86,7 +80,6 @@ copy link tersebut untuk menghubungkan dengan akun git yang ada di pc/ laptot.
 
 16. Bila tidak ada kesalahan akan seperti gambar di bawah ini
 
-![15](gambar/15.png)
 
 # pengertia 
 
